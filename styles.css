@@ -110,6 +110,13 @@ hr {
   padding-bottom: 50px;
   margin-bottom: 20px;
   color: #fff;
+  resize: elva-fairy-320wjpg 320w,
+  elva-fairy-480wjpg 480w,
+  elva-fairy-800wjpg 800w"
+sizes=(max-width 320px) 280px,
+ (max-width 480px) 440px,
+ 800px"
+src="elva-fairy-800w.jpg" alt="Elva dressed as a fairy"
 }
 
 .showcase h2,
