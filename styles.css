@@ -124,7 +124,7 @@ src="elva-fairy-800w.jpg" alt="Elva dressed as a fairy"
   width:100%;
   height:250px;
   background:url("./img/reemplazo.jpg") center center;
-  background-size: 250px 250px;
+  background-size: 100% 250px;
   }
   }
 
