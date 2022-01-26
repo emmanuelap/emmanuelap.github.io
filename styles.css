@@ -119,6 +119,15 @@ sizes=(max-width 320px) 280px,
 src="elva-fairy-800w.jpg" alt="Elva dressed as a fairy"
 }
 
+@media only screen and (min-width: 0px) and (max-width: 600px) {
+  .showcase {
+  width:250px;
+  height:250px;
+  background:url("./img/reemplazo.jpg") center center;
+  background-size: 250px 250px;
+  }
+  }
+
 .showcase h2,
 .showcase p {
   margin-bottom: 10px;
